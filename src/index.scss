@@ -1,0 +1,15 @@
+@import 'reset';
+@import '~antd/dist/antd.css';
+
+* {
+  box-sizing: border-box
+}
+
+body {
+  font: 15px 'Tahoma';
+}
+
+
+.ps__rail-y {
+  left: auto !important;
+}
